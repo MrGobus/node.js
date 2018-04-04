@@ -2,4 +2,4 @@
 
 Всякое, связанное с node.js
 
-[UDP/Datagram Sockets](./udp datagram sockets)
+[UDP Datagram Sockets](./udp datagram sockets)
